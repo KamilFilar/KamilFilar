@@ -2,8 +2,7 @@
 
 ## I'm an IT engineer and junior developer 🧐
 - **🧰 I'm currently working on a [API SilverGlobe](https://github.com/KamilFilar/API-Silver-Globe)!** 
-- **👨‍💻 I'm currently learning Angular.**
-- **🙋‍♂️ Presently, I want to join the professional dev team.** 
+- **👨‍💻 Presently, I want to join the professional dev team.**
 - **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**
 - **⚡ If you think you can't, you are right. If you think you can, you are also right!**
 

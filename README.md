@@ -1,6 +1,6 @@
 ### Hello World and hi there, I'm Kamil 👋
 
-## I'm an IT engineer and junior developer 🧐
+## I'm an IT engineer and junior web developer 🧐
 - **🧰 I'm currently working on a [API SilverGlobe](https://github.com/KamilFilar/API-Silver-Globe)!** 
 - **👨‍💻 Presently, I want to join the professional dev team.**
 - **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**

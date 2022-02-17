@@ -6,7 +6,7 @@
 - **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**
 - **⚡ If you think you can't, you are right. If you think you can, you are also right!**
 
-## 🛠 My Technology Stack:
+## 🛠 My technology stack:
 
 <p float="left">
     <img title="JavaScript" width="30px" src="./pictures/js.png"/>&nbsp;&nbsp;

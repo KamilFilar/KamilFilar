@@ -1,4 +1,4 @@
-### Hello World and hi there, I'm Kamil 👋
+### Hello World, hi there, I'm Kamil 👋
 
 ## I'm an IT engineer and web developer 🧐
 - **🧰 I'm currently working on [my personal website](https://github.com/KamilFilar/FilarDev)!** 

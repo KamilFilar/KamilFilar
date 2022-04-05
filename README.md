@@ -1,7 +1,7 @@
 ### Hello World and hi there, I'm Kamil 👋
 
 ## I'm an IT engineer and web developer 🧐
-- **🧰 I'm currently working on [my own pokedex](https://github.com/KamilFilar/Pokedex)!** 
+- **🧰 I'm currently working on [hussar wiki](https://github.com/KamilFilar/HussarWiki)!** 
 - **👨‍💻 Presently, I want to join the professional dev team.**
 - **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**
 - **⚡ If you think you can't, you are right. If you think you can, you are also right!**

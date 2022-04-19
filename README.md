@@ -1,7 +1,7 @@
 ### Hello World and hi there, I'm Kamil 👋
 
 ## I'm an IT engineer and web developer 🧐
-- **🧰 I'm currently working on my own private project.
+- **🧰 I'm currently working on my own private project.** 
 - **👨‍💻 Presently, I want to join the professional dev team.**
 - **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**
 - **⚡ If you think you can't, you are right. If you think you can, you are also right!**
@@ -23,4 +23,3 @@
     <img title="Linux" width="38px" src="./pictures/linux.png"/>&nbsp;&nbsp;
     <img title="Windows" width="32px" src="./pictures/win.png"/>&nbsp;&nbsp;
 </p>
-

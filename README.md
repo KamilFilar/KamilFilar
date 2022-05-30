@@ -15,7 +15,6 @@
     <img title="Angular" width="30px" src="./pictures/angular.png"/>&nbsp;&nbsp;
     <img title="Vue" width="30px" src="./pictures/vue.png"/>&nbsp;&nbsp;
     <img title="SQL" width="65px" src="./pictures/sql.png"/>&nbsp;&nbsp;
-    <img title="MongoDB" width="110px" src="./pictures/mongo.png"/>&nbsp;&nbsp;
     <img title="R" width="35px" src="./pictures/R.png"/>&nbsp;&nbsp;
     <img title="Git" width="58px" src="./pictures/git.png"/>&nbsp;&nbsp;
     <img title="GitLab" width="40px" src="./pictures/gitlab.png"/>&nbsp;&nbsp;

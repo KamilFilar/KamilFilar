@@ -1,9 +1,9 @@
 ### Hello World and hi there, I'm Kamil 👋
 
-## I'm an IT engineer and web developer 🧐
+## I'm an IT engineer and frontend developer 🧐
 - **🧰 I'm currently working on my own private project.** 
-- **👨‍💻 Presently, I want to join the professional dev team.**
-- **2022 Goals: Angular, Vue, React and improve my english skills! 🔥**
+- **👨‍💻 Currently I work in a large IT corporation. In my free time I creating a hobby project with my friends.**
+- **2022 Goals: my Angular skills++ and improve my english! 🔥**
 - **⚡ If you think you can't, you are right. If you think you can, you are also right!**
 
 ## 🛠 My technology stack:

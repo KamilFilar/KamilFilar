@@ -3,7 +3,7 @@
 <p>
 My name is <b>Kamil</b>, and currently, I reside in a small town in east Poland 😄
 
-For over a year and a half, I have been working as a frontend developer at one of the major Polish IT corporations. My daily work revolves mainly around the Angular framework. Additionally, I am pursuing my master's degree studies. During my free time, I actively contribute to the development of a startup where I am responsible for the entire IT. This allows me to significantly expand my knowledge and apply new skills in practice. I am intensely studying Python as I aim to become a fullstack developer in the near future. If you have any questions or collaboration proposals, I would be happy to discuss them.
+For over a year and a half, I have been working as a frontend developer at one of the major Polish IT corporations. My daily work revolves mainly around the Angular framework. Additionally, I am pursuing my master's degree studies. During my free time, I actively contribute to the development of a startup where I am responsible for the entire IT. This allows me to significantly expand my knowledge and apply new skills in practice. I am intensely studying TypeScript/Python/Java as I aim to become a fullstack developer in the near future. If you have any questions or collaboration proposals, I would be happy to discuss them.
 </p>
 
 #### Things I code with:
@@ -13,6 +13,7 @@ For over a year and a half, I have been working as a frontend developer at one o
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
